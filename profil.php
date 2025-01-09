@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>     
-    <P>kamu juga keren dinarr tahkns cuii kita sama sama jago coding</P>
+    <P>text</P>
+    
 </body>
 </html>
