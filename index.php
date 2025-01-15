@@ -9,7 +9,10 @@
     <h3>
        <?php
            echo "hello world ini adalah halaman pertama PHP";
+           $var1 = 2000;
+           echo "jumlah var1 $var1"
         ?>
     </h3>
+    
 </body>
 </html>
