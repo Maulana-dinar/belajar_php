@@ -49,6 +49,7 @@
             <option value="katolik">Katolik</option>
             <option value="hindu">Hindu</option>
             <option value="budha">Budha</option>
+            <option value="Konghucu">Konghucu</option>
         </select>
         <br>
         <label for="alamat">Alamat</label>
