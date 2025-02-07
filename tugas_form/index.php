@@ -97,6 +97,7 @@
             <option value="MPLB">Manajemen Perkantoran & Layanan Bisnis</option>
             <option value="PH">Perhotelan</option>
             <option value="KL">Kuliner</option>    
+        </select>
         <br>
         <label for="">
             pilih extra yang diminati
@@ -118,7 +119,7 @@
         <input type="checkbox" name="extra[]" value="Paskibra">Paskibra  
         <br>
         <button type="submit">submit</button>
-        <input type="text">
+    </form>
 </body>
 </html>
 <!-- ini dibantu masnya -->
