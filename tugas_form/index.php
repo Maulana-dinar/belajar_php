@@ -59,18 +59,44 @@
         <br>
         <label for="jurusan1">Pilihan Jurusan 1</label>
         <select name="jurusan1" id="jurusan1">
-            <option value="rpl">RPL</option>
-            <option value="tkj">TKJ</option>
-            <option value="mm">MM</option>
-            <option value="tkr">TKR</option>
+        <option value="PPLG">PENGEMBANGAN PERANGKAT LUNAK & GIM</option>
+            <option value="TJKT">TEKNIK JARINGAN KOMPUTER & TELEKOMUNIKASI</option>
+            <option value="BCF">BOARD CASTING & PERFILMAN</option>
+            <option value="PM">PEMASARAN</option>
+            <option value="DKV">DESAIN KOMUNIKASI VISUAL</option>
+            <option value="SP">SENI PERTUNJUKAN</option>
+            <option value="AKL">AKUTANSI KEUANGAN LEMBAGA</option>
+            <option value="MPLB">MANAJEMEN PERKANTORAN & LAANAN BISNIS</option>
+            <option value="PH">PERHOTELAN</option>
+            <option value="KL">KULINER</option>    
         </select>
         <br>
         <label for="jurusan2">Pilihan Jurusan 2</label>
         <select name="jurusan2" id="jurusan2">
-            <option value="rpl">RPL</option>
-            <option value="tkj">TKJ</option>
-            <option value="mm">MM</option>
-            <option value="tkr">TKR</option>
+            <option value="PPLG">PENGEMBANGAN PERANGKAT LUNAK & GIM</option>
+            <option value="TJKT">TEKNIK JARINGAN KOMPUTER & TELEKOMUNIKASI</option>
+            <option value="BCF">BOARD CASTING & PERFILMAN</option>
+            <option value="PM">PEMASARAN</option>
+            <option value="DKV">DESAIN KOMUNIKASI VISUAL</option>
+            <option value="SP">SENI PERTUNJUKAN</option>
+            <option value="AKL">AKUTANSI KEUANGAN LEMBAGA</option>
+            <option value="MPLB">MANAJEMEN PERKANTORAN & LAANAN BISNIS</option>
+            <option value="PH">PERHOTELAN</option>
+            <option value="KL">KULINER</option>    
+        </select>
+        <br>
+        <label for="jurusan3">Pilihan Jurusan 3</label>
+        <select name="jurusan3" id="jurusan3">
+            <option value="PPLG">PENGEMBANGAN PERANGKAT LUNAK & GIM</option>
+            <option value="TJKT">TEKNIK JARINGAN KOMPUTER & TELEKOMUNIKASI</option>
+            <option value="BCF">BOARD CASTING & PERFILMAN</option>
+            <option value="PM">PEMASARAN</option>
+            <option value="DKV">DESAIN KOMUNIKASI VISUAL</option>
+            <option value="SP">SENI PERTUNJUKAN</option>
+            <option value="AKL">AKUTANSI KEUANGAN LEMBAGA</option>
+            <option value="MPLB">MANAJEMEN PERKANTORAN & LAANAN BISNIS</option>
+            <option value="PH">PERHOTELAN</option>
+            <option value="KL">KULINER</option>    
         </select>
         <br>
         <label for="">
