@@ -100,13 +100,10 @@
             <option value="KL">Kuliner</option>    
         </select>
         <br>
-        <label for="">
+        <label for="extra">
             pilih extra yang diminati
         </label>
-        <label for="extra1">
-            <input type="checkbox" name="extra[]" id="extra1" value="Pecinta Alam">
-            Pecinta Alam
-        </label>
+      <input type="checkbox" name="extra[]" id="extra1" value="Pecinta Alam">Pecinta Alam
         <input type="checkbox" name="extra[]" value="Dewan Ambalan">Dewan Ambalan
         <input type="checkbox" name="extra[]" value="OSIS">OSIS 
         <input type="checkbox" name="extra[]" value="Gerakan Disiplin Sekolah">Gerakan Disiplin Sekolah
