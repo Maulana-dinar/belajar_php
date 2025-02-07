@@ -5,6 +5,7 @@
 .desktop-4 {
   background: #fbf5dd;
   height: 2720px;
+  weight: 1440px;
   position: relative;
   overflow: hidden;
 }
@@ -352,11 +353,11 @@
   left: 433px;
   top: 1911px;
 }
-.icon-phone-1 {
-  flex-shrink: 0;
-  width: 27px;
-  height: 27px;
-  position: relative;
+.iconphone1 {
+  
+  width: 30px;
+  height: 30px;
+  position: absolute;
   object-fit: cover;
 }
 ._8372-033 {

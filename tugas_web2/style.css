@@ -1,0 +1,90 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1{
+    background: #887118;
+    height: 2720px;
+    position: relative;
+    overflow: hidden;
+    margin:
+}
+.rectangle-1 {
+    background: #16404d;
+    width: 1458px;
+    height: 119px;
+    position: absolute;
+    left: 18px;
+    top: 0px;
+  }
+  .front-office {
+    color: #ffffff;
+    text-align: left;
+    font-size: 75px;
+    font-weight: 400;
+    position: absolute;
+    top: 13px;
+  }
+  .group-1 {
+    width: 543px;
+    height: 48px;
+    position: static;
+  }
+  .home {
+    color: #000000;
+    text-align: left;
+    font-family: "Jomolhari-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    position: absolute;
+    left: 808px;
+    top: 34px;
+    width: 97.39px;
+    height: 34px;
+  }
+  .struktur {
+    color: #000000;
+    text-align: left;
+    font-family: "Jomolhari-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    position: absolute;
+    left: 944px;
+    top: 34px;
+    width: 133px;
+    height: 48px;
+  }
+  .fasilitas {
+    color: #000000;
+    text-align: left;
+    font-family: "Jomolhari-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    position: absolute;
+    left: 1107px;
+    top: 34px;
+    width: 134.49px;
+    height: 34px;
+  }
+  .faq {
+    color: #000000;
+    text-align: left;
+    font-family: "Jomolhari-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    position: absolute;
+    left: 1271px;
+    top: 34px;
+    width: 80px;
+    height: 34px;
+  }
+  .rectangle-2 {
+    background: #d9d9d9;
+    border-radius: 30px;
+    width: 678px;
+    height: 83px;
+    position: absolute;
+    left: 734px;
+    top: 18px;
+  }
+ 
