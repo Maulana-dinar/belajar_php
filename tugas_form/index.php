@@ -59,45 +59,44 @@
         <br>
         <label for="jurusan1">Pilihan Jurusan 1</label>
         <select name="jurusan1" id="jurusan1">
-        <option value="PPLG">PENGEMBANGAN PERANGKAT LUNAK & GIM</option>
-            <option value="TJKT">TEKNIK JARINGAN KOMPUTER & TELEKOMUNIKASI</option>
-            <option value="BCF">BOARD CASTING & PERFILMAN</option>
-            <option value="PM">PEMASARAN</option>
-            <option value="DKV">DESAIN KOMUNIKASI VISUAL</option>
-            <option value="SP">SENI PERTUNJUKAN</option>
-            <option value="AKL">AKUTANSI KEUANGAN LEMBAGA</option>
-            <option value="MPLB">MANAJEMEN PERKANTORAN & LAANAN BISNIS</option>
-            <option value="PH">PERHOTELAN</option>
-            <option value="KL">KULINER</option>    
+            <option value="PPLG">Pengembangan Perangkat Lunak & Gim</option>
+            <option value="TJKT">Teknik Jaringan Komputer & Telekomunikasi</option>
+            <option value="BCF">Board Casting & Perfilman</option>
+            <option value="PM">Pemasaran</option>
+            <option value="DKV">Desain Komunikasi Visual</option>
+            <option value="SP">Seni Pertunjukan</option>
+            <option value="AKL">Akutansi Keuangan Lembaga</option>
+            <option value="MPLB">Manajemen Perkantoran & Layanan Bisnis</option>
+            <option value="PH">Perhotelan</option>
+            <option value="KL">Kuliner</option>    
         </select>
         <br>
         <label for="jurusan2">Pilihan Jurusan 2</label>
         <select name="jurusan2" id="jurusan2">
-            <option value="PPLG">PENGEMBANGAN PERANGKAT LUNAK & GIM</option>
-            <option value="TJKT">TEKNIK JARINGAN KOMPUTER & TELEKOMUNIKASI</option>
-            <option value="BCF">BOARD CASTING & PERFILMAN</option>
-            <option value="PM">PEMASARAN</option>
-            <option value="DKV">DESAIN KOMUNIKASI VISUAL</option>
-            <option value="SP">SENI PERTUNJUKAN</option>
-            <option value="AKL">AKUTANSI KEUANGAN LEMBAGA</option>
-            <option value="MPLB">MANAJEMEN PERKANTORAN & LAANAN BISNIS</option>
-            <option value="PH">PERHOTELAN</option>
-            <option value="KL">KULINER</option>    
+            <option value="PPLG">Pengembangan Perangkat Lunak & Gim</option>
+            <option value="TJKT">Teknik Jaringan Komputer & Telekomunikasi</option>
+            <option value="BCF">Board Casting & Perfilman</option>
+            <option value="PM">Pemasaran</option>
+            <option value="DKV">Desain Komunikasi Visual</option>
+            <option value="SP">Seni Pertunjukan</option>
+            <option value="AKL">Akutansi Keuangan Lembaga</option>
+            <option value="MPLB">Manajemen Perkantoran & Layanan Bisnis</option>
+            <option value="PH">Perhotelan</option>
+            <option value="KL">Kuliner</option>     
         </select>
         <br>
         <label for="jurusan3">Pilihan Jurusan 3</label>
         <select name="jurusan3" id="jurusan3">
-            <option value="PPLG">PENGEMBANGAN PERANGKAT LUNAK & GIM</option>
-            <option value="TJKT">TEKNIK JARINGAN KOMPUTER & TELEKOMUNIKASI</option>
-            <option value="BCF">BOARD CASTING & PERFILMAN</option>
-            <option value="PM">PEMASARAN</option>
-            <option value="DKV">DESAIN KOMUNIKASI VISUAL</option>
-            <option value="SP">SENI PERTUNJUKAN</option>
-            <option value="AKL">AKUTANSI KEUANGAN LEMBAGA</option>
-            <option value="MPLB">MANAJEMEN PERKANTORAN & LAANAN BISNIS</option>
-            <option value="PH">PERHOTELAN</option>
-            <option value="KL">KULINER</option>    
-        </select>
+            <option value="PPLG">Pengembangan Perangkat Lunak & Gim</option>
+            <option value="TJKT">Teknik Jaringan Komputer & Telekomunikasi</option>
+            <option value="BCF">Board Casting & Perfilman</option>
+            <option value="PM">Pemasaran</option>
+            <option value="DKV">Desain Komunikasi Visual</option>
+            <option value="SP">Seni Pertunjukan</option>
+            <option value="AKL">Akutansi Keuangan Lembaga</option>
+            <option value="MPLB">Manajemen Perkantoran & Layanan Bisnis</option>
+            <option value="PH">Perhotelan</option>
+            <option value="KL">Kuliner</option>    
         <br>
         <label for="">
             pilih extra yang diminati
@@ -119,6 +118,7 @@
         <input type="checkbox" name="extra[]" value="Paskibra">Paskibra  
         <br>
         <button type="submit">submit</button>
+        <input type="text">
 </body>
 </html>
 <!-- ini dibantu masnya -->
