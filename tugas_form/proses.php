@@ -5,7 +5,7 @@ var_dump($_POST['extra']);
 
 // simpan form ke database
 // simpan ke tabel siswa
-$koneksi = mysqli_connect('localhost', 'root', '', 'prdinar');
+$koneksi = mysqli_connect('localhost', '', '', '');
 
 $query = "INSERT INTO siswa (
     nisn,
@@ -17,7 +17,8 @@ $query = "INSERT INTO siswa (
     alamat,
     asal_sekolah,
     jurusan1,
-    jurusan2
+    jurusan2,
+    extra
 ) VALUES (
     '$_POST[nisn]',
     '$_POST[nama]',
@@ -28,7 +29,8 @@ $query = "INSERT INTO siswa (
     '$_POST[alamat]',
     '$_POST[asal_sekolah]',
     '$_POST[jurusan1]',
-    '$_POST[jurusan2]'
+    '$_POST[jurusan2]',
+    '$_POST[extra]',
 )";
 
 var_dump($query);

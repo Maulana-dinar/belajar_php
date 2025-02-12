@@ -67,7 +67,7 @@
   width: 243px;
   height: 37px;
 }
-.rectangle-82 {
+/* .rectangle-82 {
   background: #a6cdc6;
   border-radius: 100px;
   width: 79px;
@@ -75,7 +75,7 @@
   position: absolute;
   left: 202px;
   top: 2423px;
-}
+} */
 .SMK-TULISAN_HITAM.png {
   width: 66px;
   height: 66px;
@@ -190,7 +190,7 @@
   left: 363px;
   top: 2676px;
 }
-.rectangle-3 {
+.rectangle-tengah {
   background: #a6cdc6;
   border-style: solid;
   border-color: #000000;
@@ -558,11 +558,10 @@
   left: 120px;
   top: -30px;
 }
-.image-front-office {
+.image-front-office.jpeg {
   width: 96px;
   height: 96px;
   position: absolute;
   left: 13px;
   top: 15px;
-  /* object-fit: cover; */
 }
