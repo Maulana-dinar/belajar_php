@@ -47,10 +47,6 @@ input[type="number"] {
     border-radius: 5px;
 }
 
-input[type="radio"] {
-    margin-right: 5px;
-}
-
 .radio-group {
     display: flex;
     justify-content: space-between;
@@ -67,11 +63,6 @@ input[type="submit"] {
     border-radius: 5px;
     cursor: pointer;
 }
-
-input[type="submit"]:hover {
-    background: #0056b3;
-}
-
 
 @media (max-width: 480px) {
     form {
